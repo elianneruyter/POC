@@ -14,6 +14,8 @@ Op de pixate site staan tutorials en een user guide die ik kan gebruiken om het 
 Ik ben gaan zoeken naar artikelen over wizards en first time users. 
 http://www.kryshiggins.com/patterns-for-new-user-experiences/
 https://articles.uie.com/three_hund_million_button/
+http://firsttimeux.tumblr.com/ 
+http://usabilitygeek.com/first-time-use-how-to-reduce-initial-friction-of-app-usage/
 
 
 
